@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    background-color: black;
+}
+input{
+    width: 150px;
+    height: 15px;
+    border-radius: 10px;
+    outline: 0;
+    margin: 5px;
+    border: solid 1px black;
+    text-align: center;
+}
+button{
+    width: 150px;
+    height: 15px;
+    background-color: blue;
+    border-radius: 10px;
+    border: solid 1px black;
+    outline: 0;
+    margin: 5px;
+}
+section{
+    display: flex;
+    flex-direction: row;
+}
+h1{
+    font-size: 15px;
+    text-align: center;
+}
+h2{
+    font-size: 20px;
+    text-align: center;
+}
