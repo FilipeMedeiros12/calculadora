@@ -11,7 +11,7 @@ body{
     background-color: black;
 }
 input{
-    width: 150px;
+    width: 113px;
     height: 15px;
     border-radius: 10px;
     outline: 0;
@@ -20,7 +20,7 @@ input{
     text-align: center;
 }
 button{
-    width: 150px;
+    width: 115px;
     height: 15px;
     background-color: blue;
     border-radius: 10px;
